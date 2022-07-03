@@ -33,3 +33,9 @@ npx react-native run-ios --project-path './macos' --scheme='sandbox-iOS' --simul
 ```bash
 npx react-native run-macos
 ```
+
+### Testing
+
+```bash
+npm run test
+```
